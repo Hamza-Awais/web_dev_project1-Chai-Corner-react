@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <title>Chai Corner logo</title>
+  <circle cx="60" cy="60" r="56" fill="#5c3a21"/>
+  <g fill="none" stroke="#f5ebdc" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- cup body -->
+    <path d="M38 56 H78 V68 Q78 82 64 82 H52 Q38 82 38 68 Z"/>
+    <!-- handle -->
+    <path d="M78 60 H83 Q90 60 90 67 Q90 74 83 74 H77"/>
+    <!-- saucer -->
+    <path d="M34 90 H82"/>
+    <!-- steam -->
+    <path d="M50 49 Q45 43 50 38 Q55 33 50 28"/>
+    <path d="M64 49 Q59 43 64 38 Q69 33 64 28"/>
+  </g>
+</svg>
