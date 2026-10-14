@@ -1,0 +1,24 @@
+.hero
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url("../assets/hero.png");
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.hero-text
+{
+    width :100%;
+    font-size:30px;
+    padding:5%;
+    color: white;
+    margin: 120px 30px 200px;
+}
+.tagline
+{
+  font-size: 18px;
+  
+}
