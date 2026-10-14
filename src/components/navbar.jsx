@@ -7,7 +7,7 @@ function Navbar()
   return (
     <nav className="navbar">
       <img src={logo} alt="Logo" className="logo" />
-      <h1>CHAI CORNR</h1>
+      <h1>Chai Corner</h1>
       <ul>
         <li><Link to="/">Home</Link></li>
         <li><Link to="/menu">Menu</Link></li>
