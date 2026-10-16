@@ -1,4 +1,5 @@
 import contentImg from "../assets/content.png";
+import "./content.css";
 
 function Content() {
   return (

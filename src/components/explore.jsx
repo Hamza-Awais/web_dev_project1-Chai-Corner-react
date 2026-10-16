@@ -2,14 +2,19 @@ import { Link } from "react-router-dom";
 import c1Img from "../assets/c1.png";
 import c2Img from "../assets/c2.png";
 import c3Img from "../assets/c3.png";
+import "./explore.css";
 
 function Explore() {
   return (
-    <section className="explore-sec">
-      <div className="explore-text">
-        <p>Guest favourites</p>
-        <h1>Popular Chai</h1>
-        <Link to="/menu" className="epbtn">view menu &rarr;</Link>
+    <section>
+      <div className="explore-sec">
+        <div className="explore-text">
+          <p>Guest favourites</p>
+          <h1>Popular Chai</h1>
+        </div>
+        <div className="explore-link">
+          <Link to="/menu">explore Full menu &rarr;</Link>
+        </div>
       </div>
       <div className="cards">
         <div className="c1">

@@ -1,0 +1,24 @@
+.content
+{
+    padding : 70px 5%;
+    align-items: center;
+    display:flex;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+.content-text
+{
+    font-size: 20px;
+    flex: 1 1 500px;
+}
+.content-image
+{
+    flex: 0 1 550px;
+}
+.content-image img
+{
+    border-radius: 20px;
+    width: 550px;
+    max-width: 100%;
+    height: auto;
+}

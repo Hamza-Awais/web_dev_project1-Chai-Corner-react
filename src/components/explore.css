@@ -1,0 +1,135 @@
+.explore-sec
+{
+    display:flex;
+}
+.explore-text
+{
+    font-size: 20px;
+    color: #4B2E1E;
+  
+    padding:10px 100px; ;
+}
+.explore-link
+{
+    margin-left: 780px;
+    padding-top: 100px; 
+}    
+.explore-link a
+{
+    font-size:25px;
+    color:#4B2E1E;
+    text-decoration: none;
+}    
+
+
+.cards
+{
+    padding-left: 80px;
+    display:flex;
+    gap:70px;
+}
+
+.c1
+{
+    padding :10px;
+}
+.c1-title
+{
+    margin-top: -20px;
+    padding-top:15px;
+    padding-left:25px;
+    display:flex;
+    gap :100px;
+    background-color:white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size:20px;
+}
+.c1-title span
+{
+   color:#4B2E1E;
+   padding-top : 25px;
+   font-size: 20px;
+}
+.c1-pic{  overflow: hidden ;}
+.c1-pic img
+{
+    border-top-right-radius:20px;
+    border-top-left-radius:20px;
+}
+.c1-pic img:hover
+{
+   transform:scale(1.02);
+   transition: 0.4s;
+}
+
+.c2
+{
+    padding :10px;
+}
+.c2-title
+{
+    margin-top: -20px;
+    padding-top:15px;
+    padding-left:25px;
+    display:flex;
+    gap :100px;
+    background-color:white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size:20px;
+}
+.c2-title span
+{
+   color:#4B2E1E;
+   padding-top : 25px;
+   padding-right: 15px;
+   font-size: 20px;
+}
+.c2-pic img
+{
+   
+    border-top-right-radius:20px;
+    border-top-left-radius:20px;
+}
+.c2-pic{  overflow: hidden ;}
+.c2-pic img:hover
+{
+   transform:scale(1.02);
+   transition: 0.4s;
+}
+
+.c3
+{
+    padding :10px;
+}
+.c3-title
+{
+    margin-top: -20px;
+    padding-top:15px;
+    padding-left:25px;
+    display:flex;
+    gap :100px;
+    background-color:white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size:20px;
+}
+.c3-title span
+{
+   color:#4B2E1E;
+   padding-top : 25px;
+   font-size: 20px;
+}
+.c3-pic img
+{
+   
+    border-top-right-radius:20px;
+    border-top-left-radius:20px;
+}
+.c3-pic img:hover
+{
+   transform:scale(1.02);
+   transition: 0.4s;
+}
+.c3-pic{  overflow: hidden ;}
